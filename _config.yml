@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "kr-KO"
 title                    : "메인 타이틀"
 title_separator          : "-"
-subtitle                 : "서브 타이틀" # site tagline that appears below site title in masthead
+subtitle                 : ""Version 2.0"" # site tagline that appears below site title in masthead
 name                     : "camsync"
 description              : "An amazing website."
 url                      : "https://camsync.github.io"
